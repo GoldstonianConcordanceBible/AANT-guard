@@ -1,0 +1,10 @@
+{
+  "title": "AANT-Guard: Benchmark-driven multi-agent safety layer for biomedical chat systems",
+  "upload_type": "software",
+  "creators": [
+    { "name": "Goldston, Justin" }
+  ],
+  "description": "Open-source wrapper + evaluation harness to reduce delusion reinforcement risk and improve safety interventions in biomedical conversational systems.",
+  "license": "MIT",
+  "keywords": ["AI safety", "biomedical NLP", "agents", "benchmarks", "evaluation"]
+}
